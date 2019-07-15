@@ -1,2 +1,7 @@
+description: We are a friendly local club where you can practice and improve your skills alongside a supportive and diverse group. Chartered in 1996, Great Plains Toastmasters has been building leaders for over 20 years.
+author: Great Plains Toastmasters
+
 plugins:
   - jekyll-redirect-from
+  - jekyll-seo-tag
+
